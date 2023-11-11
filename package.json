@@ -1,0 +1,22 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "Markov Exer 1",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/avenger51/Markov-Exer-1.git"
+  },
+  "keywords": [
+    "Markov"
+  ],
+  "author": "Jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avenger51/Markov-Exer-1/issues"
+  },
+  "homepage": "https://github.com/avenger51/Markov-Exer-1#readme"
+}
